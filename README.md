@@ -1,4 +1,4 @@
-# GitLaw
+#Hello!
 
 Welcome to the repository for my exploration of government and the law as operating system and code, the implications, and what the government can learn from the people working with complex computer code.
 
@@ -10,4 +10,4 @@ I want to apply what I know from computers and program to what I'm learning abou
 
 That's what you've got here so far. Interested, dig in, reach out.
 
-~ Adam + Brian
+~ Adam
