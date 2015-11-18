@@ -7,5 +7,4 @@
 * [Massive Collaboration](massive_collaboration.md)
 * [The Economy of Merit](the_economy_of_merit.md)
 * Version Control Applied to Laws
-* Merit and Politics
 
