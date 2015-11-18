@@ -6,4 +6,5 @@
 * [An Operating System for The United States](Crowdsourcing-Democracy.md)
 * [Massive Collaboration](massive_collaboration.md)
 * [The Economy of Merit](the_economy_of_merit.md)
+* Inherent Transparency
 
