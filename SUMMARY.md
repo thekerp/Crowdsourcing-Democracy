@@ -8,4 +8,5 @@
 * [The Economy of Merit](the_economy_of_merit.md)
 * Version Control Applied to Laws
 * The Merit Layer
+* Merit and Politics
 
