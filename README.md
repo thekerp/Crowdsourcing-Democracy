@@ -4,13 +4,13 @@ On GitHub? Someone else fill you in? The info you need is below.
 
 On Gitbook? Cool. Keep reading.
 
-Welcome to the repository for my exploration of government and the law in the age of Uber, when software is slowly taking over the world.
+Welcome to the repository for my exploration of government and the law in the age of Uber, when software is quickly taking over the world.
 
 I'm Adam. I set this up. I'm working on it, right now. Other people might be too, any time you check in it might be different. First draft is due in a month. At this point, if you're here you're a friend, classmate, family member or professor. Thank you for taking a look!
 
 What you see in front of you is already an example of the tools I'll be writing about and their implication in society, and systems of government.
 
-This project will take shape using the same tools that programmers use to coordinate and collaborate while working on really complicated programs. As of now GitBooks is mostly a layer for sharing and public comments. 
+This project will take shape using the same tools that programmers use to coordinate and collaborate while working on software that is text based and both hieracrchical and non-linear at the same time (just like legal documents). As of now GitBooks is mostly a layer for sharing and public comments. 
 
 If you're here on a computer you can comment by clicking on the little "+" icon to the right of any section. (Right now it's a number because I have some comments. Try clicking the number. ->
 
