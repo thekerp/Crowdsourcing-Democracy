@@ -2,7 +2,7 @@
 
 On GitHub? Someone else fill you in? The info you need is below.
 
-On Gitbooks? Cool. Keep reading.
+On Gitbook? Cool. Keep reading.
 
 Welcome to the repository for my exploration of government and the law in the age of Uber, when software is slowly taking over the world.
 
@@ -14,7 +14,7 @@ This project will take shape using the same tools that programmers use to coordi
 
 I'm working continually, so what you see here is what I've got so far. Interested, dig in, reach out, I'll help you get rolling as a contributor. You should be able to comment with thoughts or questions by clicking the little plus that comes up when you mouse over any given section.
 
-If you've got a few minutes the video below is the thing that got me going down this road to begin with. I retread some of Shirky's stuff here, but I'm trying to end with at least the start for an actual proposal, and a discussion of its merits. I'll keep putting other cool links down here as I bump into them.
+If you've got a few minutes the video below is the thing that got me going down this road to begin with. I retread some of Shirky's stuff in the paper so far, but I'm trying to end with at least the start for an actual proposed system by which to deploy this into lawmaking, and a discussion of its merits. I'll keep putting other cool links down here as I bump into them.
 
 [Clay Shirky on how the Internet with Transform Government](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government?language=en)
 
@@ -24,8 +24,16 @@ DO YOU ALREADY USE GITHUB? READ BELOW:
 
 This is synced with [yon Github Repo.](https://github.com/thekerp/Crowdsourcing-Democracy)
 
-GitBooks pulls it's structure from the SUMMARY.md
+Anything merged with the master ends up here on GitBook where I send people to read and comment as someone likely first did to you. Set up a GitBook account to interact with public comments. You can also tie that to your GitHub account quite nicely.
+
+GitBook pulls it's structure for the Table of Contents from the SUMMARY.md
 
 This document right here is README.md
 
-Chapter is a new .md file.
+Chapter is a new .md file, titled and pointed to in SUMMARY.md
+
+**Try not to eff that structure up.** Minimizing maintenance is an important part of making sure I can pull off the portion of the piece where it gets all meta and I talk about how many collaborators we have on this project.
+
+I think that's it.
+
+Fork on brave soles.
