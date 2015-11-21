@@ -6,5 +6,5 @@
 * [Massive Collaboration](massive_collaboration.md)
 * [The Economy of Merit](the_economy_of_merit.md)
 * Inherent Transparency
-* an_operating_system_for_the_united_states
+* [an_operating_system_for_the_united_states](anoperating_system_for_the_united_states.md)
 
