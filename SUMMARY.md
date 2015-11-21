@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Why?](why.md)
 * [The March of Decentralization](the_march_of_decentralization.md)
-* [An Operating System for The United States](.an_operating_system_for_the_united_states_md.md/an_operating_system_for_the_united_states_md.md)
 * [Massive Collaboration](massive_collaboration.md)
 * [The Economy of Merit](the_economy_of_merit.md)
 * Inherent Transparency
