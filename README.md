@@ -12,7 +12,7 @@ What you see in front of you is already an example of the tools I'll be writing 
 
 This project will take shape using the same tools that programmers use to coordinate and collaborate while working on really complicated programs. As of now GitBooks is mostly a layer for sharing and public comments. 
 
-If you're here on a computer you can comment by clicking on the little plus to the right. ->
+If you're here on a computer you can comment by clicking on the little "+" icon to the right of any section. (Right now it's a number because I have some comments. Try clicking the number. ->
 
 If you want to make changes, that's happening via GitHub, which will actually be in the paper later under in the "Massive Collaboration" chapter. If you want to dig in that info is below. Eventually I'll get a tutorial of some sort up to help transition people who want to contribute.
 
