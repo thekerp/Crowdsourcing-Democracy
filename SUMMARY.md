@@ -7,6 +7,4 @@
 * [The Economy of Merit](the_economy_of_merit.md)
 * Inherent Transparency
 * an_operating_system_for_the_united_states
-* [An Operating System for the United States](an_operating_system_for_the_united_states.md)
-   * an_operating_system_for_the_united_states
 
