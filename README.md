@@ -8,7 +8,7 @@ Welcome to the repository for my exploration of government and the law in the ag
 
 I'm Adam. I set this up. I'm working on it, right now. Other people might be too, any time you check in it might be different. First draft is due in a month. At this point, if you're here you're a friend, classmate, family member or professor. Thank you for taking a look!
 
-What you see in front of you is already an example of the tools I'll be writing about and their implication in society, and systems of government.
+What you see in front of you is already an example of the tools I'll be writing about and their implications for society, and systems of government.
 
 This project will take shape using the same tools that programmers use to coordinate and collaborate while working on software that is text based and both hieracrchical and non-linear at the same time (just like legal documents). As of now GitBooks is mostly a layer for sharing and public comments. 
 
@@ -30,7 +30,7 @@ This is synced with [yon Github Repo.](https://github.com/thekerp/Crowdsourcing-
 
 Anything merged with the master ends up here on GitBook where I send people to read and comment as someone likely first did to you. Set up a GitBook account to interact with public comments. You can also tie that to your GitHub account quite nicely.
 
-GitBook pulls it's structure for the Table of Contents from the SUMMARY.md
+GitBook pulls its structure for the Table of Contents from the SUMMARY.md
 
 This document right here is README.md
 
@@ -40,4 +40,4 @@ Chapter is a new .md file, titled and pointed to in SUMMARY.md
 
 I think that's it.
 
-Fork on brave soles.
+Fork on brave souls.
