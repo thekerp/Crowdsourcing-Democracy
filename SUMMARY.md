@@ -8,5 +8,5 @@
 * [The Economy of Merit](the_economy_of_merit.md)
 * [Safety in Numbers](safety_in_numbers.md)
 * [Bibliography](bibliography.md)
-* Civic Duties
+* [Civic Duties](civic_duties.md)
 
