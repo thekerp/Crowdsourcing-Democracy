@@ -7,5 +7,5 @@
 * [Massive Collaboration](massive_collaboration.md)
 * [The Economy of Merit](the_economy_of_merit.md)
 * [Bibliography](bibliography.md)
-* Safety in Numbers
+* [Safety in Numbers](safety_in_numbers.md)
 
