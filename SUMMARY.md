@@ -10,5 +10,5 @@
 * [A Image Problem](a_image_problem.md)
 * [Civic Duties](civic_duties.md)
 * [Bibliography](bibliography.md)
-* The "Uber" of Voting
+* [The "Uber" of Voting](the_uber_of_voting.md)
 
