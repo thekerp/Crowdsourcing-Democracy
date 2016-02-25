@@ -7,6 +7,6 @@
 * [Massive Collaboration](massive_collaboration.md)
 * [The Economy of Merit](the_economy_of_merit.md)
 * [Safety in Numbers](safety_in_numbers.md)
-* [Bibliography](bibliography.md)
 * [Civic Duties](civic_duties.md)
+* [Bibliography](bibliography.md)
 
