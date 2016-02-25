@@ -6,7 +6,5 @@
 * [An Operating System for the United States](anoperating_system_for_the_united_states.md)
 * [Massive Collaboration](massive_collaboration.md)
 * [The Economy of Merit](the_economy_of_merit.md)
-* Inherent Transparency
-   * Security in Numbers
 * [Bibliography](bibliography.md)
 
