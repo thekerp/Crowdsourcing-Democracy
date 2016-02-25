@@ -7,5 +7,6 @@
 * [Massive Collaboration](massive_collaboration.md)
 * [The Economy of Merit](the_economy_of_merit.md)
 * Inherent Transparency
+   * Security in Numbers
 * [Bibliography](bibliography.md)
 
