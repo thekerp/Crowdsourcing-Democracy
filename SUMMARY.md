@@ -9,5 +9,5 @@
 * [Safety in Numbers](safety_in_numbers.md)
 * [Civic Duties](civic_duties.md)
 * [Bibliography](bibliography.md)
-* A Image Problem
+* [A Image Problem](a_image_problem.md)
 
