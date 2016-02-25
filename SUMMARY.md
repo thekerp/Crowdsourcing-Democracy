@@ -6,6 +6,6 @@
 * [An Operating System for the United States](anoperating_system_for_the_united_states.md)
 * [Massive Collaboration](massive_collaboration.md)
 * [The Economy of Merit](the_economy_of_merit.md)
-* [Bibliography](bibliography.md)
 * [Safety in Numbers](safety_in_numbers.md)
+* [Bibliography](bibliography.md)
 
