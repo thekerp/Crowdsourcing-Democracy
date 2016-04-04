@@ -7,7 +7,7 @@
 * [Massive Collaboration](massive_collaboration.md)
 * [The Economy of Merit](the_economy_of_merit.md)
 * [Safety in Numbers](safety_in_numbers.md)
-* [A Image Problem](a_image_problem.md)
+* [An Image Problem](a_image_problem.md)
 * [Civic Duties](civic_duties.md)
 * [The "Uber" of Voting](the_uber_of_voting.md)
 * [Bibliography](bibliography.md)
