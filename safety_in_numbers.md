@@ -1,3 +1,3 @@
 # Safety in Numbers
 
-Stuff about security.
+Stuff about security and transparency.
