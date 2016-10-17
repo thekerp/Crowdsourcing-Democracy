@@ -11,4 +11,5 @@
 * [Civic Duties](civic_duties.md)
 * [The "Uber" of Voting](the_uber_of_voting.md)
 * [Bibliography](bibliography.md)
+* Democratization Versus Democracy
 
