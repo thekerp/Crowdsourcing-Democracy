@@ -1,7 +1,9 @@
-### Hello!
+# Introduction
 
-**On Gitbook?** Cool. Keep reading.  
+**On Gitbook?** Cool. Keep reading.\
 **On GitHub?:** Skip down for "readme" kinda stuff.
+
+Want to go to GitBook?: [Here you go!](https://juris.gitbook.io/crowdsourcing-democracy/)
 
 Welcome to the repository for my exploration of government and the law in the age of Uber, when software is quickly taking over the world.
 
@@ -9,9 +11,9 @@ I'm Adam. I set this up. I'm working on it, right now. Other people might be too
 
 What you see in front of you is already an example of the tools I'll be writing about and their implications for society, and systems of government.
 
-This project will take shape using the same tools that programmers use to coordinate and collaborate while working on software that is text based and both hieracrchical and non-linear at the same time \(just like legal documents, and laws.\) As of now GitBooks is mostly a layer for sharing and public comments.
+This project will take shape using the same tools that programmers use to coordinate and collaborate while working on software that is text based and both hieracrchical and non-linear at the same time (just like legal documents, and laws.) As of now GitBooks is mostly a layer for sharing and public comments.
 
-If you're here on a computer you can comment by clicking on the little "+" icon to the right of any section. \(Right now it's a number because I have some comments. Try clicking the number. -&gt;
+If you're here on a computer you can comment by clicking on the little "+" icon to the right of any section. (Right now it's a number because I have some comments. Try clicking the number. ->
 
 If you want to make changes, that's happening via GitHub, which will actually be in the paper later under in the "Massive Collaboration" chapter. If you want to dig in that info is below.
 
@@ -19,9 +21,9 @@ I'm working continually, so what you see here is what I've got so far. Intereste
 
 If you've got a few minutes the video below is the thing that got me going down this road to begin with. I retread some of Shirky's stuff in the paper so far, but I'm trying to end with at least the start for an actual proposed system by which to deploy this into lawmaking, and a discussion of its merits. I'll keep putting other cool links down here as I bump into them.
 
-[Clay Shirky on how the Internet will Transform Government](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government?language=en)
+[Clay Shirky on how the Internet will Transform Government](https://www.ted.com/talks/clay\_shirky\_how\_the\_internet\_will\_one\_day\_transform\_government?language=en)
 
-~ Adam
+\~ Adam
 
 **DO YOU ALREADY USE GITHUB? READ BELOW:**
 
@@ -41,5 +43,4 @@ I think that's it.
 
 Fork on brave souls.
 
-~ Still Adam
-
+\~ Still Adam
