@@ -4,7 +4,7 @@
 
 Much to my surprise, I've got reasons to pass this link around again. So, here's some quick context:
 
-* This was essentially a law school thesis type project. I kept working on it for a while after that in different forms. Check out the branch labeled "Southwestern" something that reads much more like a philosophy paper. That's from first semester. Master branch is the second semester onward.
+* This was essentially a law school thesis type project. I kept working on it for a while after that in different forms. Check out the branch labeled "Southwestern" something that reads much more like a philosophy paper. That's from first semester. Master branch is the second semester onward. I have not read it since then. I'm sure my thiking on most of it has evolved.
 * Where I was going, but did not really get before I ran out of runway, was toward an idea that we could build a system of keeping our laws that would allow github/stack overflow style civic engagement. (And possibly policies.)
   * Optimize for machine readability of legal code.
   * Git-like version control
