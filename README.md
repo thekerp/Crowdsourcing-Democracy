@@ -9,7 +9,6 @@ Much to my surprise, I've got reasons to pass this link around again. So, here's
 * Where I was going, but did not really get before I ran out of runway, was toward an idea that we could build a system of keeping our laws that would allow github/stack overflow style civic engagement. (And possibly policies.)
   * Optimize for machine readability of legal code.
   * Git-like version control
-* 
 * If you're here now you might also like this [whitepaper on blockchain dispute resolution](https://drive.google.com/file/d/1318klGEYL4g02VudL-C-BCnvpKujTnbF/view). 👈 This is the project that stole my attention.
 
 
