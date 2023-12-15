@@ -4,7 +4,7 @@
 
 Much to my surprise, I've got reasons to pass this link around again. So, here's some quick context:
 
-* This was essentially a law school thesis type project. I kept working on it for a while after that in different forms. Check out the branch labeled "Southwestern" something that reads much more like a philosophy paper. That's from first semester. Master branch is the second semester onward. I have not read it since then. I'm sure my thiking on most of it has evolved.
+* This was essentially a law school "thesis" project because I got my JD for academic reasons, not to practice. I kept working on it for a while after that in different forms. Check out the branch labeled "Southwestern" something that reads much more like a philosophy paper. That's from first semester. Master branch is the second semester onward. I have not read it since then. I'm sure my thiking on most of it has evolved.
 * I also converted it for some blog content [here.](https://medium.com/zengineering-podcast/crowdsourcing-democracy-government-in-a-decentralized-world-part-one-deal-with-it-e4755940a360)
 * Where I was going, but did not really get before I ran out of runway, was toward an idea that we could build a system of keeping our laws that would allow github/stack overflow style civic engagement. (And possibly policies.)
   * Optimize for machine readability of legal code.
