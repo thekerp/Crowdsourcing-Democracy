@@ -8,19 +8,19 @@ Much to my surprise, I've got reasons to pass this link around again. So, here's
 * I also converted it for some blog content [here.](https://medium.com/zengineering-podcast/crowdsourcing-democracy-government-in-a-decentralized-world-part-one-deal-with-it-e4755940a360)
 * Where I was going, but did not really get before I ran out of runway, was toward an idea that we could build a system of keeping our laws that would allow github/stack overflow style civic engagement. (And possibly policies.)
   * Optimize for machine readability of legal code.
-  * Git-like version control & collaboration
+  * Git-like version control & collaboration (what if a bill had to be drafted by a % of consitutency, instead of 5 junior staffers?)
   * Collaborator notifications (Keep tabs on bullshit last minute edits to bills.)
   * Open Data Management (Maybe Blockchain here?)
+  * Handeling ID & Credentials (Maybe Blockcahin here?)
 * If you're here now you might also like this [whitepaper on blockchain dispute resolution](https://drive.google.com/file/d/1318klGEYL4g02VudL-C-BCnvpKujTnbF/view). 👈 This is the project that stole my attention from completing the above.
 
 
-
-**On Gitbook?** Cool. Keep reading.\
+**On Gitbook?** Cool. Keep reading.
 **On GitHub?:** Skip down for "readme" kinda stuff.
 
 Want to go to GitBook?: [Here you go!](https://juris.gitbook.io/crowdsourcing-democracy/)
 
-Welcome to the repository for my exploration of government and the law in the age of Uber, when software is quickly taking over the world.
+Welcome to the repository for my exploration of government and the law in the age of digital connectivity and collaboration, when software is quickly taking over the world.
 
 I'm Adam. I set this up. I'm working on it, right now. Other people might be too, any time you check in it might be different. First draft is due in a month. At this point, if you're here you're a friend, classmate, family member or professor. Thank you for taking a look!
 
