@@ -14,6 +14,7 @@ Much to my surprise, I've got reasons to pass this link around again. So, here's
   * Handeling ID & Credentials (Maybe Blockcahin here?)
 * If you're here now you might also like this [whitepaper on blockchain dispute resolution](https://drive.google.com/file/d/1318klGEYL4g02VudL-C-BCnvpKujTnbF/view). 👈 This is the project that stole my attention from completing the above.
 
+**End Update 4/21/23**
 
 **On Gitbook?** Cool. Keep reading.
 **On GitHub?:** Skip down for "readme" kinda stuff.
