@@ -1,4 +1,12 @@
-# Introduction (ReadMe)
+# Introduction
+
+**Update 1/11/24**
+
+Once again I find myself giving this a quick tune up as it continues to have legs in various conversations.
+
+I appologize for what is now a bit of a rambling ReadMe file. In the name of the "version control" aspect of this project, I've decided to keep this stream of updates intact.
+
+
 
 **Update 4/21/23**
 
@@ -11,7 +19,7 @@ Much to my surprise, I've got reasons to pass this link around again. So, here's
   * Git-like version control & collaboration (what if a bill had to be drafted by a % of consitutency, instead of 5 junior staffers?)
   * Collaborator notifications (Keep tabs on bullshit last minute edits to bills.)
   * Open Data Management (Maybe Blockchain here?)
-  * Handling ID & Credentials (Maybe Blockcahin here?)
+  * Handling ID & Credentials (Maybe Blockchain here?)
 * If you're here now you might also like this [whitepaper on blockchain dispute resolution](https://drive.google.com/file/d/1318klGEYL4g02VudL-C-BCnvpKujTnbF/view). 👈 This is the project that stole my attention from completing the above.
 
 **End Update 4/21/23**
@@ -22,7 +30,7 @@ Much to my surprise, I've got reasons to pass this link around again. So, here's
 
 Want to go to GitBook?: [Here you go!](https://juris.gitbook.io/crowdsourcing-democracy/)
 
-*11/17/15*
+_**11/17/15**_
 
 Welcome to the repository for my exploration of government and the law in the age of digital connectivity and collaboration, when software is quickly taking over the world.
 
