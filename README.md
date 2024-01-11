@@ -30,15 +30,13 @@ Much to my surprise, I've got reasons to pass this link around again. So, here's
   * Handling ID & Credentials (Maybe Blockchain here?)
 * If you're here now you might also like this [whitepaper on blockchain dispute resolution](https://drive.google.com/file/d/1318klGEYL4g02VudL-C-BCnvpKujTnbF/view). 👈 This is the project that stole my attention from completing the above.
 
-**End Update 4/21/23**
+**Original Readme: 11/17/15**
 
 **On Gitbook?** Cool. Keep reading.
 
 **On GitHub?:** Skip down for "readme" kinda stuff.
 
 Want to go to GitBook?: [Here you go!](https://juris.gitbook.io/crowdsourcing-democracy/)
-
-_**11/17/15**_
 
 Welcome to the repository for my exploration of government and the law in the age of digital connectivity and collaboration, when software is quickly taking over the world.
 
