@@ -1,4 +1,4 @@
-# Introduction (Readme)
+# Introduction (ReadMe)
 
 **Update 4/21/23**
 
