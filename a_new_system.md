@@ -1,9 +1,8 @@
 # A New System
-#Systems
-In the previous chapter I mentioned we wouldn't have to reinvent the wheel. 
 
+### With the systems In the previous chapter I mentioned we wouldn't have to reinvent the wheel.
 
-But what form does such a system take? How might these tools actually work applied to a realm other than that for which they were developed? It is doubtful that the translation will be one to one. 
+But what form does such a system take? How might these tools actually work applied to a realm other than that for which they were developed? It is doubtful that the translation will be one to one.
 
 That hasn't kept Just dropping all of the U.S. Code into a repo has been done. It's not just a matter of using the tools As Shirky points out in his TED talk there are a number of instances of Github users hosting repos containing the full legal code of the state of Utah, for example. There are even state government initiatives with names like "Open Law," yet we've seen very little momentum in a shift to laws maintained or written in a way that matches the world of open source programming introduced in the previous section.
 
