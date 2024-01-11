@@ -22,7 +22,7 @@ Much to my surprise, I've got reasons to pass this link around again. So, here's
 
 Want to go to GitBook?: [Here you go!](https://juris.gitbook.io/crowdsourcing-democracy/)
 
-*9/10/15*
+*11/17/15*
 
 Welcome to the repository for my exploration of government and the law in the age of digital connectivity and collaboration, when software is quickly taking over the world.
 
