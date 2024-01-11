@@ -4,7 +4,15 @@
 
 Once again I find myself giving this a quick tune up as it continues to have legs in various conversations.
 
-I appologize for what is now a bit of a rambling ReadMe file. In the name of the "version control" aspect of this project, I've decided to keep this stream of updates intact.
+I appologize for what is now a bit of a rambling ReadMe file. In the name of the "version control" aspect of this project, I've decided to keep this stream of updates intact. Please keep reading for a sense of the project and its progression over time.
+
+If you're here simply to dig in as a sample of my writing, you can jump right to the first chapter by clicking on "Why?" in the left menu.
+
+Thanks for taking a look!
+
+Best,
+
+Adam
 
 
 
