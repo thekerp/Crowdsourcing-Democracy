@@ -7,9 +7,5 @@
 * [An Image Problem](an_image_problem.md)
 * [Massive Collaboration](massive_collaboration.md)
 * [A New System](a_new_system.md)
-* [Safety in Numbers](safety_in_numbers.md)
-* [Civic Duties](civic_duties.md)
-* [The "Uber" of Voting](the_uber_of_voting.md)
 * [Bibliography](bibliography.md)
-* [Democratization Versus Democracy](democratization_versus_democracy.md)
 
